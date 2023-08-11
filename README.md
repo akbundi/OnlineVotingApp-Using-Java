@@ -1,1 +1,2 @@
 # OnlineVotingApp-Using-Java
+Developed an intuitive interface showcasing party names, vote buttons, and result declaration, utilizing various Java Swing components - Designed a user-friendly voting process where users can click on a party name, followed by the vote button, and provide their name and age for authentication - Enabled users to have complete control over result declaration, allowing them to declare results whenever desired - Implemented a seamless and efficient system for displaying parties, voting, and result declaration
